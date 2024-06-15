@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+thatguygary
+
 
 from pysnap import *
 import sys
@@ -18,7 +19,7 @@ except:
 try:
     targetpasslist = sys.argv[2]
 except:
-    print(" [ ! | SYNTAX ERROR ] $ python3 snapcrack.py < username > < /path/to/passlist.txt > < # Threads > ")
+    print(" [ ! | SYNTAX ERROR ] $ python3 snapcrack.py < thatguygary> < /path/to/passlist.txt > < # Threads > ")
 try:
     tNumber = int(sys.argv[3])
 except:
